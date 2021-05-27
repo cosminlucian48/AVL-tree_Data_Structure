@@ -1,0 +1,3 @@
+D:/Facultate/Anu2_sem2/SD/PROEICT_IAR_DAR_TEST/cmake-build-debug/CMakeFiles/PROEICT_IAR_DAR_TEST.dir
+D:/Facultate/Anu2_sem2/SD/PROEICT_IAR_DAR_TEST/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Facultate/Anu2_sem2/SD/PROEICT_IAR_DAR_TEST/cmake-build-debug/CMakeFiles/rebuild_cache.dir
